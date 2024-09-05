@@ -1,7 +1,3 @@
-Here’s a sample `README.md` for the **PayPath_Web_SDK**. This document includes sections on how to install, use, and integrate the SDK into web projects, along with a high-level overview of its components. It also provides essential documentation for developers.
-
----
-
 # **PayPath_Web_SDK**
 
 The **PayPath Web SDK** is a library designed to make payment integration simple, secure, and scalable for web applications. It provides easy-to-use APIs for performing payment transactions, managing users, and interacting with the PayPath Payment Gateway. This SDK is suitable for merchants and developers who want to integrate payment processing features into their websites.
